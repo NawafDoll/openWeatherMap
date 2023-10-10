@@ -1,0 +1,14 @@
+@font-face {
+    font-family: A;
+    src: url('../../public/fonts/Amiri-Bold.ttf');
+    font-display: swap;
+  }
+  
+
+*{
+    font-family: A,sans-serif;
+}
+
+body{
+    background-color: #0052d0 !important;
+}
